@@ -8,7 +8,7 @@ An end-to-end operational analytics pipeline designed to process daily financial
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
