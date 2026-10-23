@@ -8,7 +8,7 @@ An end-to-end operational analytics pipeline designed to process daily financial
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](https://github.com/diyadamayanthi/enterprise-batch-reconciliation-pipeline/blob/main/dashboard_preview.png.png)
 
 ---
 
