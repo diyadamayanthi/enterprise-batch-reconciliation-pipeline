@@ -2,13 +2,13 @@
 
 An end-to-end operational analytics pipeline designed to process daily financial batch transactions across regional branch networks, track fulfillment variances against aggregate baseline benchmarks, and deliver cross-filtered executive visibility.
 
-🔗 **[View Interactive Tableau Public Dashboard](https://public.tableau.com/authoring/EnterpriseSettlementReconciliationOperationsDashboard/Dashboard1#1)**
+🔗 **[View Interactive Tableau Public Dashboard](https://public.tableau.com/app/profile/diya.damayanthi.k.s/viz/EnterpriseSettlementReconciliationOperationsDashboard/Dashboard1)**
 
 ---
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](<img width="1249" height="999" alt="dashboard_preview" src="https://github.com/user-attachments/assets/a0721629-57b1-4996-8d96-b4309851a234" />)
 
 ---
 
