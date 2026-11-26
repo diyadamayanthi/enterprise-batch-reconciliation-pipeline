@@ -42,8 +42,10 @@ High-volume retail banking batch pipelines require daily reconciliation between 
 
 ## Repository Structure
 
+```text
 ├── scripts/                 # Linux Bash automation & batch execution scripts
 ├── sql/                     # Analytical SQL queries (CTEs, Window Functions, reconciliation checks)
 ├── src/                     # Python ETL validation, anomaly quarantine & reporting scripts
 ├── bi_fact_transactions.csv # Processed batch transaction dataset for BI layer
 └── dashboard_preview.png    # Executive dashboard snapshot
+```
